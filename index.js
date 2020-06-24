@@ -1,3 +1,9 @@
+//U:表示这个文件未被跟踪
+//A:表示这个文件已经添加到最总文件
+//M:表示这个文件已经被修改了
+
+
+
 //设置全局用户名,邮箱配置
 // git config --global user.name 
 //git config --global user.eamil
@@ -21,5 +27,11 @@
 // git status -s
 
 
-//添加追踪文件
+//添加追踪文件(一个一个添加)
 //git add index.html(文件名)
+//一次性全部添加
+// git add .
+
+
+//提交更新
+//git commit -m "提交信息描述"
