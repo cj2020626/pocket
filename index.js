@@ -56,3 +56,6 @@
 
 //只从仓库中移除文件
 //git rm --cached index.js
+
+//忽略文件
+//.gitignoer
