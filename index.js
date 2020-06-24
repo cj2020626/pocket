@@ -45,3 +45,7 @@
 //git reset HEAD index.html(文件名)
 //移除放入暂存区全部的文件
 // git reset HEAD .
+
+
+//跳过暂存区
+//git commit -a -m "提示消息"
