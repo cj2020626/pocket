@@ -49,3 +49,10 @@
 
 //跳过暂存区
 //git commit -a -m "提示消息"
+
+//从仓库和工作区同事移除文件
+//git rm -f index.js
+
+
+//只从仓库中移除文件
+//git rm --cached index.js
