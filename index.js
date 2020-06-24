@@ -59,3 +59,13 @@
 
 //忽略文件
 //.gitignoer
+
+//查看提交历史,按q退出
+//git log
+
+//回退到某个版本
+//git reset --hard xxx(值)
+
+
+//回退版本信息
+//git reflog --oneline
