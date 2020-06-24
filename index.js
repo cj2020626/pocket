@@ -35,3 +35,13 @@
 
 //提交更新
 //git commit -m "提交信息描述"
+
+
+//撤销对文件的修改
+//git checkout -- index.js(文件名)
+
+
+//移除放入暂存区的文件
+//git reset HEAD index.html(文件名)
+//移除放入暂存区全部的文件
+// git reset HEAD .
