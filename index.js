@@ -50,6 +50,7 @@
 //跳过暂存区
 //git commit -a -m "提示消息"
 
+
 //从仓库和工作区同事移除文件
 //git rm -f index.js
 
@@ -69,3 +70,9 @@
 
 //回退版本信息
 //git reflog --oneline
+
+
+//关联到云端
+//git remote add origin 仓库地址
+//推送到主分支
+//git push -u origin master
